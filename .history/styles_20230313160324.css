@@ -1,7 +1,7 @@
 /* global */
 
 * {
-    font-family: 'Euphoria Script', cursive;
+    font-family: 'Euphoria', Courier, monospace;
 }
 
 body, html {
@@ -28,12 +28,10 @@ body, html {
  border-radius: 45%;
  box-shadow: 2px 2px 4px rgba(216, 207, 207, 0.2);
  width: 100px;
- margin: 0 auto;
 }
 
 .info_container h1 {
     color: aliceblue;
-    font-size: 2.5rem;
 }
 
 .general_container {
