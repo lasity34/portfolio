@@ -1,0 +1,33 @@
+/* global */
+
+body {
+  margin: 0;
+}
+
+/* nav  */
+
+
+#menu
+{
+  background-color: #ffffff79;
+}
+
+
+#nav_bar_img {
+  width: 10%;
+  height: 10%;
+}
+
+nav ul {
+  display: flex;
+  text-transform: uppercase;
+  list-style: none;
+}
+
+.mobile-menu li {
+  margin-bottom: 10px;
+}
+
+
+
+

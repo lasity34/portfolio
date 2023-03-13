@@ -28,7 +28,6 @@ body, html {
 
 .info_container img {
  border-radius: 45%;
- box-shadow: 2px 2px 4px rgba(216, 207, 207, 0.2);
  width: 100px;
 }
 
@@ -45,11 +44,5 @@ body, html {
 @media (min-width: 768px) {
     .info_container img {
         width: 150px;
-    }
-}
-
-@media (min-width: 1200px) {
-    .info_container img {
-        width: 200px;
     }
 }

@@ -1,0 +1,18 @@
+/* global */
+
+body, html {
+  margin: 0;
+}
+
+/* nav  */
+
+
+
+
+
+/* Intro */
+
+.intro_container {
+    background: url(./Images/profile_img.jpg) no-repeat fixed center bottom;
+	background-size: cover;
+}

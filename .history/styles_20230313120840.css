@@ -1,0 +1,31 @@
+/* global */
+
+body {
+  margin: 0;
+}
+
+/* nav  */
+
+
+#menu
+{
+  background-color: #ffffff79;
+  padding: 1em;
+}
+
+
+
+#nav_bar_img {
+  width: 10%;
+  height: 10%;
+}
+
+
+
+.mobile-menu li {
+  margin-bottom: 10px;
+}
+
+
+
+

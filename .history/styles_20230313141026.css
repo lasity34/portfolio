@@ -1,0 +1,22 @@
+/* global */
+
+body {
+  margin: 0;
+}
+
+/* nav  */
+
+#nav_container {
+  display: flex;
+  width: 100%;
+  background-color: aqua;
+}
+
+#menu {
+  padding: 1em;
+}
+
+#nav_bar_img {
+  width: 15%;
+  height: 10%;
+}

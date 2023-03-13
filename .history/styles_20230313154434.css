@@ -42,14 +42,10 @@ body, html {
     }
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .info_container img {
         width: 150px;
     }
 }
 
-@media (min-width: 1200px) {
-    .info_container img {
-        width: 200px;
-    }
-}
+@media (min-width: 1200px) */

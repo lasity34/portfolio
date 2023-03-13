@@ -1,0 +1,18 @@
+/* global */
+
+body, html {
+  margin: 0;
+}
+
+/* nav  */
+
+#color {
+    background-color: aqua;
+    justify-content: space-between;
+}
+
+#nav {
+    margin: 0;
+}
+
+

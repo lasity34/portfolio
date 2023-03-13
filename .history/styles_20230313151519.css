@@ -1,0 +1,26 @@
+/* global */
+
+body, html {
+  margin: 0;
+}
+
+/* nav  */
+
+
+
+
+
+/* Intro */
+
+.intro_container {
+    background: url(./Images/profile_img.jpg) no-repeat fixed center bottom;
+	background-size: cover;
+    height: 80vh;
+}
+
+.info_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 60vh;
+}
