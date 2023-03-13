@@ -1,0 +1,19 @@
+/* global */
+
+
+
+
+
+
+
+/* nav  */
+
+nav {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+#nav_bar_img {
+    width: 20%;
+  
+}

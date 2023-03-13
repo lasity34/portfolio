@@ -1,0 +1,16 @@
+/* global */
+
+body {
+    background-color: aqua;
+}
+
+
+
+
+
+/* nav  */
+
+#nav_bar_img {
+    width: 20%;
+    background-color: blue;
+}

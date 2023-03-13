@@ -6,9 +6,10 @@ body {
 
 /* nav  */
 
-
-
-
+.mobile_menu {
+  border-bottom: 1px solid black;
+  padding: 0.5em 1em;
+}
 
 #nav_bar_img {
   width: 10%;
@@ -16,7 +17,7 @@ body {
 }
 
 nav ul {
-  display: flex;
+  display: none;
   text-transform: uppercase;
   list-style: none;
 }
@@ -25,6 +26,11 @@ nav ul {
   margin-bottom: 10px;
 }
 
-
+.mobile-menu li a {
+  display: block;
+  padding: 10px;
+  background-color: #f0f0f0;
+  color: #333;
+}
 
 

@@ -16,7 +16,7 @@ body {
 }
 
 nav ul {
-  display: flex;
+  display: none;
   text-transform: uppercase;
   list-style: none;
 }
@@ -25,6 +25,12 @@ nav ul {
   margin-bottom: 10px;
 }
 
+.mobile-menu li a {
+  display: block;
+  padding: 10px;
+  background-color: #f0f0f0;
+  color: #333;
+}
 
 
 
