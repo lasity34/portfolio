@@ -96,28 +96,11 @@ html {
 
 .cv_container {
     padding-top: 2em;
-    padding-bottom: 2em;
-    display: flex;
-    flex-direction: column;
-   text-align: center;
+    padding-bottom: 2em
 }
 
 .button_cv {
-   
-    text-align: center;
-    color: #075e54;
-}
-
-.button_cv p {
-background-color: aliceblue;
-border: 1px solid white;
-border-radius: 40%;
-padding: 0.5em 1em;
-font-weight: 600;
-}
-
-.button_cv p:hover {
-    
+    border: 1px solid white;
 }
 
 /* skills */

@@ -96,10 +96,7 @@ html {
 
 .cv_container {
     padding-top: 2em;
-    padding-bottom: 2em;
-    display: flex;
-    flex-direction: column;
-   text-align: center;
+    padding-bottom: 2em
 }
 
 .button_cv {
