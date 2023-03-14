@@ -192,7 +192,7 @@ html {
 }
 
 .front_end_column img {
-  width: 70%;
+  width: 60%;
   height: 30vh;
   margin: 1em;
 }
@@ -232,7 +232,6 @@ html {
   padding: 2em;
   height: 160vh;
 }
-
 
 #back_end h2 {
   text-align: center;
