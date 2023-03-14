@@ -162,7 +162,7 @@ margin-top: 10em;
 
 #front_end h2 {
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
     padding: 1em;
 }
 
@@ -198,7 +198,7 @@ margin-top: 10em;
 
     .front_end_column {
         width: 30%;
-        border: none;
+      
     }
 }
 
@@ -212,17 +212,5 @@ margin-top: 10em;
     margin-top: 45em;
         color: aliceblue;
         padding: 2em;
-        height: 60vh;
-}
-
-
-#back_end h2 {
-    text-align: center;
-    font-size: 2rem;
-}
-
-@media (min-width: 768px) {
-    #back_end {
-        margin-top: 10em;
-    }
+        height: 50vh;
 }

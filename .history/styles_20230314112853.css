@@ -198,7 +198,7 @@ margin-top: 10em;
 
     .front_end_column {
         width: 30%;
-        border: none;
+      
     }
 }
 
@@ -223,6 +223,6 @@ margin-top: 10em;
 
 @media (min-width: 768px) {
     #back_end {
-        margin-top: 10em;
+        margin: 0;
     }
 }
