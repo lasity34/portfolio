@@ -64,7 +64,7 @@ html {
 /* Description */
 
 .about_container {
-  height: 70vh;
+  height: 60vh;
   margin-top: 10em;
   max-width: 90%;
   display: flex;
@@ -232,10 +232,10 @@ html {
     #414345,
     #232526
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  margin-top: 50em;
+  margin-top: 55em;
   color: aliceblue;
   padding: 2em;
-  height: 140vh;
+  height: 160vh;
 }
 
 

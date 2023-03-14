@@ -64,7 +64,7 @@ html {
 /* Description */
 
 .about_container {
-  height: 70vh;
+  height: 60vh;
   margin-top: 10em;
   max-width: 90%;
   display: flex;
@@ -201,7 +201,7 @@ html {
     border: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 568px) {
   .front_end_container {
     justify-content: space-around;
     flex-direction: row;
