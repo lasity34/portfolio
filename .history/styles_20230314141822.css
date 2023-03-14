@@ -169,7 +169,7 @@ html {
 
 #front_end h2 {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 2rem;
   padding: 1em;
   text-decoration: underline;
 }
@@ -188,11 +188,10 @@ html {
 
 .front_end_column h3 {
   margin-top: 1em;
-  font-size: 2rem;
 }
 
 .front_end_column img {
-  width: 60%;
+  width: 70%;
   height: 30vh;
   margin: 1em;
 }

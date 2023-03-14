@@ -119,14 +119,6 @@ html {
   text-decoration: underline;
 }
 
-#skills h3 {
-    font-size: 2rem;
-}
-
-#skills p {
-    font-size: 1.2rem;
-}
-
 .skills_container {
   display: flex;
   flex-direction: column;
@@ -148,17 +140,11 @@ html {
 
   .column {
     width: 28%;
-  } 
-
-  .column h3 {
-    font-size: 2rem;
   }
 
   .skills_container p {
     font-size: 1.2rem;
   }
-
-
 }
 
 /* front end projects */
@@ -169,9 +155,8 @@ html {
 
 #front_end h2 {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 2rem;
   padding: 1em;
-  text-decoration: underline;
 }
 
 .front_end_container {
@@ -188,11 +173,10 @@ html {
 
 .front_end_column h3 {
   margin-top: 1em;
-  font-size: 2rem;
 }
 
 .front_end_column img {
-  width: 60%;
+  width: 70%;
   height: 30vh;
   margin: 1em;
 }
@@ -226,7 +210,7 @@ html {
   margin-top: 45em;
   color: aliceblue;
   padding: 2em;
-  height: 180vh;
+  height: 150vh;
 }
 
 #back_end h2 {
@@ -237,7 +221,7 @@ html {
 @media (min-width: 768px) {
   #back_end {
     margin-top: 10em;
-    height: 80vh;
+    height: 60vh;
   }
 }
 
@@ -252,36 +236,11 @@ html {
   padding: 1.5em;
 }
 
-#lg_container {
-    display: flex;
-    justify-content: center;
-}
-
 #icon_container {
  display: flex;
- justify-content: space-evenly;  
- width: 50%; 
- padding: 2em;
+ justify-content: space-evenly;   
 }
 
 .bi {
     font-size: 1.5rem;
-}
-
-#github {
-    color: #171515;
-}
-
-#instagram {
-    color: #fb3958;
-}
-
-#whatsapp {
-    color: #075e54;
-}
-
-@media (min-width: 768px) {
-    .bi {
-        font-size: 2rem;
-    }
 }
