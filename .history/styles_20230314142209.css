@@ -209,7 +209,7 @@ html {
   }
 
   .front_end_column img {
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -227,10 +227,10 @@ html {
     #414345,
     #232526
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  margin-top: 50em;
+  margin-top: 45em;
   color: aliceblue;
   padding: 2em;
-  height: 160vh;
+  height: 180vh;
 }
 
 #back_end h2 {
@@ -241,7 +241,7 @@ html {
 @media (min-width: 768px) {
   #back_end {
     margin-top: 10em;
-    height: 70vh;
+    height: 80vh;
   }
 }
 
