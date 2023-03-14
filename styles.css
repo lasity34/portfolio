@@ -212,7 +212,7 @@ margin-top: 10em;
     margin-top: 45em;
         color: aliceblue;
         padding: 2em;
-        height: 60vh;
+        height: 150vh;
 }
 
 
@@ -224,5 +224,18 @@ margin-top: 10em;
 @media (min-width: 768px) {
     #back_end {
         margin-top: 10em;
+        height: 60vh;
     }
+}
+
+
+/* contact */
+
+#contact {
+    height: 40vh;
+    text-align: center;
+}
+
+#contact h2 {
+    padding: 1.5em;
 }
