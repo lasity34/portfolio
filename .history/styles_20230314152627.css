@@ -254,7 +254,6 @@ html {
 #back_end h2 {
   text-align: center;
   font-size: 2rem;
-  text-decoration: underline;
 }
 
 @media (min-width: 768px) {

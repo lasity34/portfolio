@@ -220,15 +220,11 @@ html {
 
   .front_end_column img {
     width: 80%;
-    height: 20vh;
+    height: 30vh;
   }
 }
 
-@media (min-width:1199px) {
-    .front_end_column img {
-        height: 30vh;
-    }
-}
+@media (min-width:1199px)
 
 /* back-end */
 
@@ -254,7 +250,6 @@ html {
 #back_end h2 {
   text-align: center;
   font-size: 2rem;
-  text-decoration: underline;
 }
 
 @media (min-width: 768px) {
