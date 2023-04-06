@@ -226,18 +226,12 @@ font-weight: 600;
 }
 
 @media (min-width: 567px){
-  #front_end {
-    height: 100vh;
-  }
-
     .front_end_column img {
         width: 50%;
     }
 }
 
 @media (min-width: 768px) {
- 
-
   .front_end_container {
     justify-content: space-around;
     flex-direction: row;

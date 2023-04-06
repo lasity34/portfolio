@@ -226,7 +226,7 @@ font-weight: 600;
 }
 
 @media (min-width: 567px){
-  #front_end {
+  #front-end {
     height: 100vh;
   }
 
