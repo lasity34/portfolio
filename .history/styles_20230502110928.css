@@ -227,7 +227,7 @@ font-weight: 600;
 
 @media (min-width: 567px){
   #front_end {
-    height: 280vh;
+    height: 120vh;
   }
 
     .front_end_column img {

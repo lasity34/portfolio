@@ -227,7 +227,7 @@ font-weight: 600;
 
 @media (min-width: 567px){
   #front_end {
-    height: 280vh;
+    height: 100vh;
   }
 
     .front_end_column img {
@@ -259,8 +259,6 @@ font-weight: 600;
     .front_end_column img {
         height: 30vh;
     }
-
-  
 }
 
 /* back-end */
