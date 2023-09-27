@@ -1,7 +1,7 @@
 /* global */
 
 * {
-  font-family: "Schoolbell", cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 body,
@@ -227,7 +227,7 @@ font-weight: 600;
 
 @media (min-width: 567px){
   #front_end {
-    height: 120vh;
+    height: 280vh;
   }
 
     .front_end_column img {
@@ -236,9 +236,7 @@ font-weight: 600;
 }
 
 @media (min-width: 768px) {
-  #front_end {
-    height: 360vh;
-  }
+ 
 
   .front_end_container {
     justify-content: space-around;
@@ -262,9 +260,7 @@ font-weight: 600;
         height: 30vh;
     }
 
-    #front_end {
-      height: 280vh;
-    }
+  
 }
 
 /* back-end */
