@@ -311,7 +311,7 @@ font-weight: 600;
   margin-top: 50em;
   color: aliceblue;
   padding: 2em;
-  height: 280vh;
+  height: 140vh;
 }
 
 
@@ -324,8 +324,21 @@ font-weight: 600;
 @media (min-width: 768px) {
   #back_end {
     margin-top: 10em;
-    height: 140vh;
+    height: 70vh;
   }
+}
+
+.backend_container {
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
 }
 
 /* contact */
