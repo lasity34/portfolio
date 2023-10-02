@@ -181,8 +181,6 @@ font-weight: 600;
 }
 
 .button-container {
-  display: flex;
-  justify-content: center;
   text-align: center;
 }
 
@@ -237,7 +235,7 @@ font-weight: 600;
   display: flex;
   flex-direction: column;
   text-align: center;
-  align-items: center;
+  
 }
 
 .front_end_column h3 {
