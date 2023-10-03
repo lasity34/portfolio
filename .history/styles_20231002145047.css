@@ -108,14 +108,14 @@ html {
     color: #075e54;
 }
 
-.button_cv p {
+/* .button_cv p {
 background-color: white;
 color: black;
 border: 1px solid white;
 border-radius: 40%;
 padding: 0.5em 1em;
 font-weight: 600;
-}
+} */
 
 
 .button_cv p:hover {
@@ -177,7 +177,7 @@ font-weight: 600;
   display: inline-block;
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #171515;
+  
   color: white;
   border-radius: 5px;
   text-decoration: none;
@@ -223,7 +223,7 @@ font-weight: 600;
 /* front end projects */
 
 #front_end {
-  height: 180vh;
+  height: 160vh;
 }
 
 #front_end h2 {
@@ -263,7 +263,7 @@ font-weight: 600;
 
 @media (min-width: 567px){
   #front_end {
-    height: 180vh;
+    height: 160vh;
   }
 
     .front_end_column img {
