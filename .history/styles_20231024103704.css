@@ -16,7 +16,7 @@ html {
 .intro_container {
   background: url(./Images/profile_img.jpg) no-repeat fixed center bottom;
   background-size: cover;
-  height: 80vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -64,7 +64,7 @@ html {
 /* Description */
 
 .about_container {
-  height: 150vh;
+  height: 70vh;
   margin-top: 10em;
   max-width: 90%;
   display: flex;
@@ -323,7 +323,7 @@ font-weight: 600;
   margin-top: 50em;
   color: aliceblue;
   padding: 2em;
-  height: 290vh;
+  height: 260vh;
 }
 
 

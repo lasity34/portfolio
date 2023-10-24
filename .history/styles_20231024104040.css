@@ -244,6 +244,7 @@ font-weight: 600;
   flex-direction: column;
   text-align: center;
   align-items: center;
+  margin-bottom: 1em;
 }
 
 .front_end_column h3 {
