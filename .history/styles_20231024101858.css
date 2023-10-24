@@ -261,13 +261,9 @@ font-weight: 600;
     border: none;
 }
 
-#front_end {
-  height: 390vh;
-}
-
 @media (min-width: 567px){
   #front_end {
-    height: 380vh;
+    height: 360vh;
   }
 
     .front_end_column img {
@@ -277,9 +273,6 @@ font-weight: 600;
 
 @media (min-width: 768px) {
  
-  #front_end {
-    height: 180vh;
-  }
 
   .front_end_container {
     justify-content: space-around;
@@ -323,7 +316,7 @@ font-weight: 600;
   margin-top: 50em;
   color: aliceblue;
   padding: 2em;
-  height: 230vh;
+  height: 280vh;
 }
 
 
